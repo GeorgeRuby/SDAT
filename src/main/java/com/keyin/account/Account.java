@@ -17,11 +17,11 @@ public class Account {
         this.id = id;
     }
 
-    public double getAmount() {
+    public double getBalance() {
         return amount;
     }
 
-    public void setAmount(double amount) {
+    public void setBalance(double amount) {
         this.amount = amount;
     }
 }
